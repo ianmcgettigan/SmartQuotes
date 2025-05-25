@@ -32,7 +32,6 @@ Go to your `.tex` file with the incorrect quotes, and run `:FixQuotes`. That's i
 If you want it such that every time you type "some text" it converts to ``some text'' 
 automatically, install UltiSnips if you have not already. Then simply add this to
 your `~/.vim/UltiSnips/tex.snippets` file. 
-simply add this to your ` (credit lervag, creator of VimTeX):
 
 ```vimscript
 snippet " "Quotes" A
