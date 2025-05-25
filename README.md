@@ -1,4 +1,4 @@
-# SmartQuotes
+# LaTeX Smart Quotes and AutoExpand Quotes #
 Turn all instances of "some text" into properly formatted LaTeX ``some text'' 
 
 Add this to your `vimrc` (vim, :edit $MYVIMRC):
